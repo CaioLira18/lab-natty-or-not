@@ -1,16 +1,19 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# The History of IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma Apresentação criada para contar a evolução da IA ao longo dos anos, desde da origem até as atuais IAs Generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa Gamma.App para roteirização e criação do slide;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente criei uma arte exclusiva para a apresentação usando o Leonardo AI e por fim com a Gamma.App gerei uma apresentação contando a historia das IA, desde da origem até as IAs generativas
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A Apresentação apresenta um conteúdo envolvente e visualmente rico sobre a evolução da IA, Desde da Origem até as IAs Generativas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar esta apresentação foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos do dia a dia.
+
+
