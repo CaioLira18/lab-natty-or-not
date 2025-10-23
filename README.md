@@ -12,7 +12,7 @@ Primeiramente criei uma arte exclusiva para a apresentação usando o Leonardo A
 
 ## 🚀 Resultados
 A Apresentação apresenta um conteúdo envolvente e visualmente rico sobre a evolução da IA, Desde da Origem até as IAs Generativas.
-Link da Apresentação Aqui[https://github.com/CaioLira18/lab-natty-or-not/blob/main/exemplos/A-Evolucao-da-Inteligencia-Artificial-Do-Sonho-a-Realidade.pdf]
+[Link da Apresentação Aqui](https://github.com/CaioLira18/lab-natty-or-not/blob/main/apresentacao/A-Evolucao-da-Inteligencia-Artificial-Do-Sonho-a-Realidade.pdf)
 
 ## 💭 Reflexão (Opcional)
 Criar esta apresentação foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos do dia a dia.
